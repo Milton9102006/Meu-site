@@ -1,0 +1,126 @@
+:root{
+  --corh1:#00B0FF;
+  --corh2:#00B0FF;
+}
+p{
+  margin-top:5px;
+}
+body{
+  background-image:linear-gradient(to left,#00FFFF,#7BC8F6);
+}
+main{
+  cursor:auto;
+  box-shadow:3px 3px 10px blue;
+  border-radius:15px;
+  background-color:white;
+  width:150px;
+  height:2000px;
+  padding:10px;
+  margin:auto;
+  pdding:8px;
+    }
+
+h1{
+  color:var(--corh1);
+}
+h2{
+  color:var(--corh2);
+}
+.h1s{
+  font-size:30px;
+  text-align:center;
+  text-shadow:2px 2px 3px var(--corh2);
+}
+.h1s2{
+  border:0px;
+  text-align:center;
+}
+video{
+  border-radius:20px;
+}
+#img{
+  width:240;
+  height:200px;
+  background:url('musica29.jpg');
+  background-position:center center;
+  background-attachment:fixed;
+  background-size:cover;
+  border-radius:10px;
+  display:block;
+  margin:5px;
+}
+audio{
+  border-color:blue;
+  width:240px;
+}
+#img2{
+  width:240px;
+  height:200px;
+  background:url('musica17.jpg');
+  background-position:center center;
+  background-attachment:fixed;
+  background-size:cover;
+  border-radius:10px;
+  display:block;
+  margin:5px;
+}
+
+#img3{
+  width:240px;
+  height:200px;
+  background:url('musica30.jpg');
+  background-position:center center;
+  background-size:cover;
+  border-radius:10px;
+  display:block;
+  margin:5px;
+}
+#img4{
+  width:240px;
+  height:200px;
+  background:url('musica18.jpg');
+  background-position:center center;
+  background-attachment:fixed;
+  background-size:cover;
+  border-radius:10px;
+  display:block;
+  margin:5px;
+}
+footer{
+  border:0px;
+  /*border-top:10px;*/
+  height:100px;
+  background:rgba(0,100,255,0.5)
+  
+}
+footer>h2{
+  
+}
+#menu{
+  display:inlane-block;
+  background:blue;
+  height:500px;
+}
+#item{
+  position: -webkit-sticky;
+  position: sticky;
+  filter:drop-shadow(1px 1px 5px blue);
+  border-radius:150px;
+  margin:25px;
+  width:200px;
+  height:1070px;
+  background-color: aliceblue;
+}
+#grid{
+    display:grid;
+    grid-template-columns:auto auto;
+}
+#item2{
+  position:fixed;
+  border-radius:50px;
+  margin:15px;
+  padding:30px;
+  height:60px;
+  margin-top:100px;
+  background-color: gainsboro;
+}

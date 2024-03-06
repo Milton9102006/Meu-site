@@ -1,0 +1,104 @@
+:root{
+  --corh1:#0091EA;
+  --corh2:#00B0FF;
+}
+p{
+  margin-top:5px;
+}
+body{
+  
+  background-image:linear-gradient(to left,#00FFFF,#7BC8F6);
+}
+main{
+  box-shadow:3px 3px 10px blue;
+  border-radius:55px;
+  background-color:white;
+  width:650px;
+  height:4000px;
+  padding:10px;
+  margin:auto;
+  pdding:8px;
+    }
+
+h1{
+  color:var(--corh1);
+}
+h2{
+  color:var(--corh2);
+}
+.h1s{
+  font-size:50px;
+  text-align:center;
+  text-shadow:5px 5px 2px var(--corh2);
+}
+.h1s2{
+  border:0px;
+  text-align:center;
+}
+video{
+  width:20vh;
+  border-radius:20px;
+}
+#img{
+  width:640px;
+  height:400px;
+  background:url('musica29.jpg');
+  background-position:center center;
+  background-attachment:fixed;
+  background-size:cover;
+  border-radius:20px;
+  display:block;
+  margin:5px;
+}
+audio{
+  width:540px;
+}
+#img2{
+  width:640px;
+  height:400px;
+  background:url('musica17.jpg');
+  background-position:center center;
+  background-attachment:fixed;
+  background-size:cover;
+  border-radius:20px;
+  display:block;
+  margin:5px;
+}
+
+#img3{
+  width:640px;
+  height:400px;
+  background:url('musica30.jpg');
+  background-position:center center;
+  background-size:cover;
+  border-radius:20px;
+  display:block;
+  margin:5px;
+}
+#img4{
+  width:640px;
+  height:400px;
+  background:url('musica18.jpg');
+  background-position:center center;
+  background-attachment:fixed;
+  background-size:cover;
+  border-radius:20px;
+  display:block;
+  margin:5px;
+}
+footer{
+  border:0px;
+  /*border-top:10px;*/
+  height:100px;
+  background:rgba(0,100,255,0.5)
+h2m
+}
+footer>h2{
+  
+}
+#menu{
+  display:inlane-block;
+  background:blue;
+  height:500px;
+}
+|
